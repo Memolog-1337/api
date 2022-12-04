@@ -1,0 +1,7 @@
+Django==3.2.3
+djangorestframework==3.12.4
+beautifulsoup4==4.11.1
+bs4==0.0.1
+lxml==4.9.1
+selenium==4.6.1
+selenium-stealth==1.0.6
